@@ -1,8 +1,9 @@
 # Library Management System
 
-Student: TOMMY KOROMA
+Student: MOHAMED E AMARA
 Course: PROG211 - Object-Oriented Programming 1  
-Assignment: Mini Library Management System  
+Assignment: Mini Library Management System 
+class: DIT1102F
 
 ## What This Project Does
 
@@ -81,11 +82,12 @@ This will test if everything works correctly.
 9. Search books works correctly
 10. Update book and member works
 
-## What I Learned
+## WHAT I LEARNED
 
 - How to use dictionaries for fast lookup
 - How to use lists to store multiple items
 - How to use tuples for fixed data
 - How to create functions in Python
 - How to test my code using assert
+
 - How to handle errors
